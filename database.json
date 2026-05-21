@@ -1,0 +1,13 @@
+[
+  {
+    "Name": "Infinite Yield Mobile",
+    "Desc": "Admin commands for executors.",
+    "Code": "loadstring(game:HttpGet('https://raw.githubusercontent.com/EdgeYolo/InfiniteYield/master/source'))()"
+  },
+  {
+    "Name": "Fly Script v3",
+    "Desc": "Press E or Tap to toggle flying.",
+    "Code": "print('Fly injected!')"
+  }
+]
+
