@@ -8,5 +8,10 @@
     "Name": "Fly Script v3",
     "Desc": "thx for using a script.",
     "Code": "loadstring(game:HttpGet('https://raw.githubusercontent.com/XNEOFF/FlyGuiV3/main/FlyGuiV3.txt'))()"
+  },
+  {
+    "Name": "Ghost Shield Is Back",
+    "Desc": "Powerful shield protection script.",
+    "Code": "loadstring(game:HttpGet('https://raw.githubusercontent.com/aguinidgerald-cell/Ghost-shild-is-back/refs/heads/main/Ghost%20shild%20is%20back'))()"
   }
 ]
