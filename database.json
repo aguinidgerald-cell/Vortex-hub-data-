@@ -7,12 +7,7 @@
   {
     "Name": "Fly Script v3",
     "Desc": "thx for using a script.",
-    "Code": "loadstring(game:HttpGet("https://raw.githubusercontent.com/XNEOFF/FlyGuiV3/main/FlyGuiV3.txt"))()"
-  },
-  {
-    "Name": "IDINAGDAG MONG SCRIPT NAME",
-    "Desc": "DESCRIPTION MULA SA DISCORD SUBMISSION",
-    "Code": "YUNG LUA CODE O LOADSTRING NA PINADALA NIYA"
+    "Code": "loadstring(game:HttpGet('https://raw.githubusercontent.com/XNEOFF/FlyGuiV3/main/FlyGuiV3.txt'))()"
   }
 ]
 
