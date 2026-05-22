@@ -13,5 +13,9 @@
     "Name": "Ghost Shield Is Back",
     "Desc": "Powerful shield protection script.",
     "Code": "loadstring(game:HttpGet('https://raw.githubusercontent.com/aguinidgerald-cell/Ghost-shild-is-back/refs/heads/main/Ghost%20shild%20is%20back'))()"
-  }
-]
+  },
+  {
+    "Name": "math helper",
+    "Desc": "math helper for madness.",
+    "Code": "loadstring(game:HttpGet('https://raw.githubusercontent.com/aguinidgerald-cell/Math-helper-bypass-lite/refs/heads/main/Math%20helper%20bypass%20lite'))()"
+ ]
