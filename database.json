@@ -17,5 +17,5 @@
   {
     "Name": "math helper",
     "Desc": "math helper for madness.",
-    "Code": "loadstring(game:HttpGet('https://raw.githubusercontent.com/aguinidgerald-cell/Math-helper-bypass-lite/refs/heads/main/Math%20helper%20bypass%20lite'))()"
- ]
+    "Code": "loadstring(game:HttpGet('https://raw.githubusercontent.com/aguinidgerald-cell/Math-helper-bypass-lite/refs/heads/main/Math%20helper%20bypass%20lite'))()"     
+  ]  
