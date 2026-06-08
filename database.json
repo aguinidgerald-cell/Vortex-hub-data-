@@ -1,23 +1,12 @@
 [
   {
-    "Name": "Infinite Yield Mobile",
-    "Desc": "Admin commands for executors.",
-    "Code": "loadstring(game:HttpGet('https://raw.githubusercontent.com/EdgeIY/infiniteyield/master/source'))()"
+    "Name": "1 Speed Hack ⚡",
+    "Desc": "Universal WalkSpeed script",
+    "Code": "game.Players.LocalPlayer.Character.Humanoid.WalkSpeed = 100"
   },
   {
-    "Name": "Fly Script v3",
-    "Desc": "thx for using a script.",
-    "Code": "loadstring(game:HttpGet('https://raw.githubusercontent.com/XNEOFF/FlyGuiV3/main/FlyGuiV3.txt'))()"
-  },
-  {
-    "Name": "Ghost Shield Is Back",
-    "Desc": "Powerful shield protection script.",
-    "Code": "loadstring(game:HttpGet('https://raw.githubusercontent.com/aguinidgerald-cell/Ghost-shild-is-back/refs/heads/main/Ghost%20shild%20is%20back'))()"
-  },
-  {
-    "Name": "math helper",
-    "Desc": "math helper for madnes.",
-    "Code": "loadstring(game:HttpGet('https://raw.githubusercontent.com/aguinidgerald-cell/Math-helper-bypass-lite/refs/heads/main/Math%20helper%20bypass%20lite'))()"       
+    "Name": "2 Wallhack 👁️",
+    "Desc": "See players through walls",
+    "Code": "print('Wallhack Activated!')"
   }
 ]
-
