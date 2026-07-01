@@ -1,3 +1,4 @@
+
 {
   "cloud wyvern": {"id": 10092, "name": "Cloud Wyvern", "emoji": "☁️🐉"},
   "fly crab": {"id": 10084, "name": "Fly Crab", "emoji": "🦀"},
@@ -22,7 +23,7 @@
   "ercc": {"id": 10154, "name": "ERCC", "emoji": "🔷"},
   "rose": {"id": 10155, "name": "Rose", "emoji": "🌹"},
   "godly plume": {"id": 10138, "name": "Godly Plume", "emoji": "🪶"},
-  "evolved monkey": {"id": 10139, "name": "Evolved Monkey", "emoji": "🐒"},
+  "evolved monkey": {"id": 10133, "name": "Evolved Monkey", "emoji": "🐒"},
   "star of lakshmi": {"id": 10152, "name": "Star of Lakshmi", "emoji": "⭐"},
   "tri dominus": {"id": 10130, "name": "Tri Dominus", "emoji": "🔺"},
   "rotate yb": {"id": 10148, "name": "Rotate YB", "emoji": "💛"},
@@ -172,5 +173,9 @@
   "golden tri dominus": {"id": 20130, "name": "Golden Tri Dominus", "emoji": "🔺✨"},
   "golden rotate yb": {"id": 20148, "name": "Golden Rotate YB", "emoji": "💛✨"},
   "golden lava lord": {"id": 20142, "name": "Golden Lava Lord", "emoji": "🌋✨"},
-  "golden red demon": {"id": 20137, "name": "Golden Red Demon", "emoji": "😈✨"}
+  "golden red demon": {"id": 20137, "name": "Golden Red Demon", "emoji": "😈✨"},
+  "golden ercc": {"id": 20154, "name": "Golden ERCC", "emoji": "🔷✨"},
+  "golden infection": {"id": 20140, "name": "Golden Infection", "emoji": "☣️✨"},
+  "golden lightdemon": {"id": 20132, "name": "Golden Light Demon", "emoji": "😇✨"}
 }
+  
