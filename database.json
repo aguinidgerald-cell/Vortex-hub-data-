@@ -172,5 +172,14 @@
   "golden tri dominus": {"id": 20130, "name": "Golden Tri Dominus", "emoji": "🔺✨"},
   "golden rotate yb": {"id": 20148, "name": "Golden Rotate YB", "emoji": "💛✨"},
   "golden lava lord": {"id": 20142, "name": "Golden Lava Lord", "emoji": "🌋✨"},
-  "golden red demon": {"id": 20137, "name": "Golden Red Demon", "emoji": "😈✨"}
-  }
+  "golden red demon": {"id": 20137, "name": "Golden Red Demon", "emoji": "😈✨"},
+  "colored bunny": {"id": 40001, "name": "Colored Bunny", "emoji": "🐰🎨"},
+  "colored brown bunny": {"id": 40011, "name": "Colored Brown Bunny", "emoji": "🤎🐰🎨"},
+  "colored rabbit": {"id": 40009, "name": "Colored Rabbit", "emoji": "🐇🎨"},
+  "colored frog": {"id": 40077, "name": "Colored Frog", "emoji": "🐸🎨"},
+  "colored green cat": {"id": 40039, "name": "Colored Green Cat", "emoji": "💚🐱🎨"},
+  "colored yellow cat": {"id": 40057, "name": "Colored Yellow Cat", "emoji": "💛🐱🎨"},
+  "colored kitten": {"id": 40002, "name": "Colored Kitten", "emoji": "🐾🎨"},
+  "colored kitty": {"id": 40049, "name": "Colored Kitty", "emoji": "🐱🎨"},
+  "colored black pussy": {"id": 40015, "name": "Colored Black Pussy", "emoji": "🖤🐱🎨"}
+}
